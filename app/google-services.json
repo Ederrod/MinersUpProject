@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083266154421",
+    "firebase_url": "https://minersup-6a950.firebaseio.com",
+    "project_id": "minersup-6a950",
+    "storage_bucket": "minersup-6a950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083266154421:android:ac0ce804accf5cf5",
+        "android_client_info": {
+          "package_name": "com.eder.rodriguez.minersup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083266154421-eotf6307ijfpq8aq3errskqqc744q0j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eder.rodriguez.minersup",
+            "certificate_hash": "debe7495fc91c7f93dee105f1b6ff72f36373035"
+          }
+        },
+        {
+          "client_id": "1083266154421-69l177sajtp4585vil9iiq2sq8u1k9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXhH7VyF3LsyQZkDnStgI76kTrtEO6XY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083266154421-69l177sajtp4585vil9iiq2sq8u1k9ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
